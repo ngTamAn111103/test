@@ -1,1 +1,2 @@
 chức năng mới của prj
+Test chức năng đồng bộ code
